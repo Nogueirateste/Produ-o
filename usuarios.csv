@@ -1,0 +1,3 @@
+username,password_hash,salt,nome_completo,nivel_acesso,ativo
+admin,78c3f5f825117a2017d3a81ea4674ac09dc864c1a8cb76359a7a5d81fc18e13c,0qAJs2mzKn4HmJhs,Administrador,admin,True
+teste,3f838e6752db1a5b416d40876ab22266032cce3c075928f0fbb2dbf1780f36d6,GncK6zH4xr2IFRB8,teste,supervisor,True
